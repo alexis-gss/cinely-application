@@ -1,1 +1,40 @@
-node_modules/
+# Gradle
+.gradle/
+gradle/gradle-daemon-jvm.properties
+build/
+**/build/
+
+# Android Studio
+.idea/
+*.iml
+
+# Local configuration
+local.properties
+
+# Logs
+*.log
+
+# Captures
+captures/
+
+# Keystore (si tu signes ton application)
+*.jks
+*.keystore
+
+# Fichiers temporaires
+*.tmp
+*.swp
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Kotlin
+.kotlin/
+
+# NDK (si utilisé)
+.externalNativeBuild/
+.cxx/
+
+# Firebase (si tu ne veux pas le versionner)
+google-services.json
