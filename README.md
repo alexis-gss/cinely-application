@@ -1,15 +1,18 @@
 <div align="center">
 
-[![Banner of the github account](./assets/images/github-visual.png)](https://doc-github-project-template.alexis-gousseau.com)
+[![Banner of the github account](./assets/images/github-visual.png)](https://cinely.alexis-gousseau.com/)
 
-[![GitHub latest commit](https://img.shields.io/github/last-commit/alexis-gss/github-project-template/develop?color=FFFFFF&style=for-the-badge)](https://github.com/alexis-gss/github-project-template/commit/master)
-[![GitHub tag](https://img.shields.io/github/tag/alexis-gss/github-project-template?style=for-the-badge&color=FFFFFF)](https://github.com/alexis-gss/github-project-template/tags)
-[![GitHub License](https://img.shields.io/github/license/alexis-gss/github-project-template?color=FFFFFF&style=for-the-badge)](https://github.com/alexis-gss/github-project-template/blob/master/LICENSE)
+[![Website test](https://img.shields.io/website-up-down-green-red/https/cinely.alexis-gousseau.com?style=for-the-badge)](https://cinely.alexis-gousseau.com)
+[![GitHub latest commit](https://img.shields.io/github/last-commit/alexis-gss/cinely-application/develop?color=5A718A&style=for-the-badge)](https://github.com/alexis-gss/cinely-application/commit/master)
+[![GitHub tag](https://img.shields.io/github/tag/alexis-gss/cinely-application?style=for-the-badge&color=5A718A)](https://github.com/alexis-gss/cinely-application/tags)
+[![GitHub License](https://img.shields.io/github/license/alexis-gss/cinely-application?color=5A718A&style=for-the-badge)](https://github.com/alexis-gss/cinely-application/blob/master/LICENSE)
 
 </div>
 
 # Introduction
-[Github Project Template](https://doc-github-project-template.alexis-gousseau.com) is a template dedicated to start a new project in Github.
+[Cinely](http://cinely.alexis-gousseau.com/) is a native Android app (Kotlin + Jetpack Compose) that lets you track movies, TV shows, documentaries, and manga/anime (in video format) via the TMDB API.
+
+All tracking data is stored and optimized locally on the device and can be exported or imported as a compressed file.
 
 # Table of contents
 
@@ -25,20 +28,22 @@
 - [Copyright and License](#copyright-and-license)
 
 # Frameworks, Platforms and Libraries
-<!-- https://ileriayo.github.io/markdown-badges/ -->
-[![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/)
+[![SASS](https://img.shields.io/badge/SASS-hotpink.svg?style=for-the-badge&logo=SASS&logoColor=white)](https://sass-lang.com/)
+[![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
+[![Vue.js](https://img.shields.io/badge/vuejs-%2335495e.svg?style=for-the-badge&logo=vuedotjs&logoColor=%234FC08D)](https://vuejs.org/)
+[![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
+[![PHP](https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white)](https://www.php.net/)
+[![Laravel](https://img.shields.io/badge/laravel-%23FF2D20.svg?style=for-the-badge&logo=laravel&logoColor=white)](https://laravel.com/docs/master)
 
 # Documentation
 
-You can find all the documentation of this package on this link : [Github Project Template documentation](https://doc-github-project-template.alexis-gousseau.com).
+You can find all the documentation of this project on this link : [Cinely documentation](https://doc-cinely.alexis-gousseau.com).
 
 # Contributing
 
 ### Create a task
 
-You can create a [new issue](https://github.com/alexis-gss/github-project-template/issues/new/choose) with a specific templates : bug or feature.
-
-Once your code is working, please verify that your code is following the same coding standards.
+You can create a [new issue](https://github.com/alexis-gss/cinely-application/issues/new/choose) with a specific templates : bug or feature.
 
 ### Fixing a Bug
 
@@ -48,15 +53,14 @@ When fixing a bug please make sure to test it in several browsers. If you are no
 
 When implementing a feature please create an issue first explaining your idea and asking whether there's need for such a feature. Remember the script's core philosophy is to stay simple and minimal, doing one thing and doing it right.
 
-
 # Changelog
 
-Latest version [v1.1.0](https://github.com/alexis-gss/github-project-template/releases/tag/v1.1.0).
+Latest version [v1.0.0](https://github.com/alexis-gss/cinely-application/releases/tag/v1.0.0).
 
 See the [CHANGELOG.md](CHANGELOG.md) file for details.
 
 # Copyright and License
 
-[Github Project Template]((https://doc-github-project-template.alexis-gousseau.com)) was written by [Alexis Gousseau](https://github.com/alexis-gss).
+[Cinely](http://cinely.alexis-gousseau.com/) was written by [Alexis Gousseau](https://github.com/alexis-gss).
 
-Copyright (c) 2025 and beyond Alexis Gousseau.
+Copyright (c) 2026 and beyond Alexis Gousseau.
